@@ -1,1 +1,1 @@
-# testing connectivity
+# testing the connectivity
